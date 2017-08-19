@@ -1,0 +1,1 @@
+{"Framework": "PySpark", "ArgumentVector": ["$file"], "TrackedRun": true, "Target": "mygpu", "SparkDependenciesFile": null, "PrepareEnvironment": true, "CondaDependenciesFile": null}

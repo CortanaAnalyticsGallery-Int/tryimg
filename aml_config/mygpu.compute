@@ -1,0 +1,6 @@
+address: 40.71.200.137
+baseDockerImage: microsoft/mmlspark:0.6
+password: mygpu#neeraj#0d4314a5d6f74cdcb6101287243cfa70
+sharedVolumes: true
+type: virtualmachine
+username: neeraj
